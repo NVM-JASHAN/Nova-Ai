@@ -1,6 +1,6 @@
-# NOVA // ONYX
+# NOVA // BY JERRY
 
-**An Unrestricted Technical Assistant**
+**An Unrestricted AI Assistant**
 
 NOVA is a lightweight, high-aesthetic, and unrestricted AI chat interface designed for power users who want direct, honest, and moralizing-free interactions with LLMs. Built to provide a minimalist and fast experience, NOVA runs locally in your browser and puts you in control of your AI experience.
 
@@ -38,3 +38,4 @@ To use NOVA, you need your own Groq API key. This ensures you have full control 
 
 ## ⚖️ Disclaimer
 NOVA is designed as a technical experiment. By using this tool, you acknowledge that you are responsible for the prompts you send and the content generated.
+
