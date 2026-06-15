@@ -4,6 +4,11 @@
 
 NOVA is a lightweight, high-aesthetic, and unrestricted AI chat interface with use of Groq API designed for power users who want direct, honest, and moralizing-free interactions with LLMs. Built to provide a minimalist and fast experience, NOVA runs locally in your browser and puts you in control of your AI experience.
 
+### Project Preview
+![NOVA Interface 1](Nova-ss-1.jpg)
+![NOVA Interface 2](Nova-ss-2.jpg)
+![NOVA Interface 3](Nova-ss-3.jpg)
+
 ## 🚀 How to Use
 
 You have two ways to run NOVA:
